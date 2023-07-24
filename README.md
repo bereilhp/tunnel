@@ -1,4 +1,4 @@
-# Calculate Distance from A to B image
+# Calculate Distance from point A to B from an image
 
 ## Run program 
 ```
